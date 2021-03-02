@@ -1,3 +1,3 @@
 # git-group-practice
 
-THESE ARE MIKES CHANGES
+Lauren typed this 
